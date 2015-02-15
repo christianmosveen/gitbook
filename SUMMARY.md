@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Commands](commands.md)
-   * [Clone](clone.md)
+   * [Clone](commands/clone.md)
    * Checkout
 
