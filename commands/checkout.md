@@ -1,9 +1,11 @@
-# Clone
-Clone a repository for local usage
+# Checkout
+Check out a specific branch or commit
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git checkout develop
+git checkout -b <new branch name>
 ```
 
 #### Assignments
-1. Clone a repo
+1. Check out the develop branch
+2. Create a new branch from another branch/commit

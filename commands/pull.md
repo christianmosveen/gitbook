@@ -1,9 +1,10 @@
-# Clone
-Clone a repository for local usage
+# Pull
+Pull remote changes to a repository
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git pull
+git pull origin master
 ```
 
 #### Assignments
-1. Clone a repo
+1. Pull the possible changes from a repo
