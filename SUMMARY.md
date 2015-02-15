@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Commands](commands.md)
-   * Clone
+   * [Clone](clone.md)
 
