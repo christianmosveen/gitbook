@@ -3,7 +3,7 @@ Shows the differences between two states
 
 ```
 git diff
-git diff c4feb4be
+git diff <commit>
 git diff HEAD^1
 ```
 

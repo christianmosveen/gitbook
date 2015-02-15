@@ -2,7 +2,7 @@
 Add a single commit from another branch
 
 ```
-git cherry-pick c4feb4be
+git cherry-pick <commit>
 ```
 
 #### Assignments

@@ -3,8 +3,8 @@ Resets the branch to the specified state
 
 ```
 git reset
-git reset --soft c4feb4be
-git reset --hard d34db33f
+git reset --soft <commit>
+git reset --hard <commit>
 ```
 
 #### Assignments
