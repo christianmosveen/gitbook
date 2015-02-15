@@ -16,4 +16,7 @@
    * [Branch](commands/branch.md)
    * [Stash](commands/stash.md)
    * [Cherry-pick](commands/cherry-pick.md)
+   * [Rebase](commands/rebase.md)
+   * [Reflog](commands/reflog.md)
+   * [Bisect](commands/bisect.md)
 
