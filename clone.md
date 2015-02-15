@@ -1,5 +1,4 @@
 # Clone
-
 Clone a repository for local usage
 
 ```
