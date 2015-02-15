@@ -1,9 +1,10 @@
-# Clone
-Clone a repository for local usage
+# Log
+Prints the commit log
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git log
+git log --graph --pretty=oneline --abbrev-commit
 ```
 
 #### Assignments
-1. Clone a repo
+1. Read through the log, and see if you can understand which changes has been made

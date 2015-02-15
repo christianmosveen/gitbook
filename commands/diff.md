@@ -1,9 +1,12 @@
-# Clone
-Clone a repository for local usage
+# Diff
+Shows the differences between two states
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git diff
+git diff c4feb4be
+git diff HEAD^1
 ```
 
 #### Assignments
-1. Clone a repo
+1. Check the difference between the working tree/index and the last commit
+2. Check the difference between two commits
