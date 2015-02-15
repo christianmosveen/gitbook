@@ -1,9 +1,10 @@
-# Clone
-Clone a repository for local usage
+# Push
+Push the local commits to the remote repository
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git push
+git push -u origin <branch>
 ```
 
 #### Assignments
-1. Clone a repo
+1. Push your changes to the remote repository

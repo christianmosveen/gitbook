@@ -1,4 +1,4 @@
-Git course
+Git Cookbook
 =======
 
-Git book accompanying a Git course.
+Short descriptions, examples and assignments covering the most important Git commands.
