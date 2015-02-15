@@ -1,9 +1,11 @@
-# Clone
-Clone a repository for local usage
+# Stash
+Stash away uncommitted changes to tracked files, and pop them back in again later
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git stash
+git stash pop
 ```
 
 #### Assignments
-1. Clone a repo
+1. Stash your changes
+2. Do some other changes, commit them, and then pop the stash back in
