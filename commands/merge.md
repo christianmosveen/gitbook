@@ -1,8 +1,9 @@
-# Clone
-Clone a repository for local usage
+# Merge
+Merge one branch into another
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git merge <branch>
+git merge --squash <branch>
 ```
 
 #### Assignments

@@ -13,4 +13,7 @@
    * [Diff](commands/diff.md)
    * [Merge](commands/merge.md)
    * [Reset](commands/reset.md)
+   * [Branch](commands/branch.md)
+   * [Stash](commands/stash.md)
+   * [Cherry-pick](commands/cherry-pick.md)
 

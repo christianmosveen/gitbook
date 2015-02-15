@@ -2,7 +2,7 @@
 Clone a repository for local usage
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git clone <repo clone url>
 ```
 
 #### Assignments
