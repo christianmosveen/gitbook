@@ -5,6 +5,7 @@
    * [Clone](commands/clone.md)
    * [Checkout](commands/checkout.md)
    * [Pull](commands/pull.md)
+   * [Status](commands/status.md)
    * [Add](commands/add.md)
    * [Commit](commands/commit.md)
    * [Push](commands/push.md)

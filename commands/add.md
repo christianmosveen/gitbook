@@ -1,9 +1,9 @@
-# Clone
-Clone a repository for local usage
+# Add
+Add files to the index/staging area
 
 ```
-git clone git@github.com:elasticsearch/elasticsearch.git
+git add --all
 ```
 
 #### Assignments
-1. Clone a repo
+1. Edit some files, add them, and check that they are added to the index
