@@ -1,9 +1,9 @@
-# Clone
-Clone a repository for local usage
+# Reflog
+Print a log showing the history of the commits HEAD has pointed to
 
 ```
-git clone <repo clone url>
+git reflog
 ```
 
 #### Assignments
-1. Clone a repo
+1. Create a commit, and then discard it with reset --hard. Do some changes and commit them. How can you now get back to the discarded commit?
