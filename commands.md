@@ -1,3 +1,3 @@
 # Commands
 
-A list of the most common Git commands, and some examples and assignments to try them out.
+Short descriptions, examples and assignments covering the most important Git commands.

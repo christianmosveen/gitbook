@@ -1,4 +1,5 @@
 Git Cookbook
 =======
 
-Short descriptions, examples and assignments covering the most important Git commands.
+## Created by
+## Christian H. Mosveen
