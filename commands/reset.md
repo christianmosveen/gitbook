@@ -2,7 +2,7 @@
 Resets the branch to the specified state
 
 ```
-git reset
+git reset <commit>
 git reset --soft <commit>
 git reset --hard <commit>
 ```
